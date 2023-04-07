@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Demo/GazeInteraction_Demo.unity
+    guid: 9c0b4f4a6c8c6b54c9e0b58cf1eecc50
+  - enabled: 1
+    path: Assets/Scenes/AR_Piano.unity
+    guid: bcb91e9f55ac1184f8a630667cf6a703
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 08add7151056829438e7da9599e57e05,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 748844f9f2305874ab18feff80126881,
+      type: 2}
